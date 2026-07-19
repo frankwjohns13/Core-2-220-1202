@@ -345,13 +345,14 @@
 - Onboarding/offboarding
 
 <!-- Link to Core 1 Notes -->
-**View Core 1 Notes** → [View Core  Notes](https://github.com/frankwjohns13/Core-1-220-1201/)
+## View Core 1 Notes
+[View Core  Notes](https://github.com/frankwjohns13/Core-1-220-1201/)
 
-<!-- Link to Notes Index -->
-**View Index** → [Notes Index](https://github.com/frankwjohns13/frankwjohns13.github.io)
+## Notes Index
+[View Notes Index](https://github.com/frankwjohns13/frankwjohns13.github.io)
 
-
-
+## Website
+[View website](https://frankwjohns13.github.io/)
 
 
 

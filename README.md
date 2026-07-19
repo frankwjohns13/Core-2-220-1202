@@ -347,8 +347,8 @@
 <!-- Link to Core 1 Notes -->
 **View Core 1 Notes** → [View Core  Notes](https://github.com/frankwjohns13/Core-1-220-1201/)
 
-<!-- Link to A+ Main Page -->
-**View A+ Main Page** → [View A+ Main Page](https://github.com/frankwjohns13/CompTIA-A-Plus-Notes)
+<!-- Link to Notes Index -->
+**View Index** → [Notes Index](https://github.com/frankwjohns13/frankwjohns13.github.io)
 
 
 
